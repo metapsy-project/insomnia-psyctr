@@ -1,6 +1,6 @@
 ## **The `insomnia-psyctr` database** 📊
 
-[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.xxx-blue">](https://dx.doi.org/10.5281/zenodo.xxx)
+[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23977511-blue">](https://dx.doi.org/10.5281/zenodo.23977511)
 
 The `insomnia-psyctr` database is part of the meta-analytic research domain ([MARD](https://docs.metapsy.org/uploads/ebmental-2022-300509.pdf)) within the [Metapsy project](https://www.metapsy.org/). It contains randomized controlled trials comparing psychological treatments with control conditions in adults with chronic insomnia.
 
