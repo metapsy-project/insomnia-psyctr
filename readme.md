@@ -1,4 +1,4 @@
-## **The `insomnia-psyctr` database** 📊
+## **The `data-insomnia-psyctr` database** 📊
 
 [<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23977511-blue">](https://dx.doi.org/10.5281/zenodo.23977511)
 
