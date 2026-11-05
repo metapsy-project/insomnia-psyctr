@@ -1,26 +1,61 @@
 {
     "population": {
-        "inclusion": ["Adults aged 18-65 with a diagnosis of major depression"],
-        "exclusion": []
+        "inclusion": [
+            "Adults (both genders) with chronic insomnia",
+            "Insomnia diagnosed according to formal diagnostic criteria (e.g. DSM, ICD, ICSD) or judged by scores above a clinical threshold on an insomnia questionnaire",
+            "Eligibility criteria of the trial include daytime impairment",
+            "Patients with psychiatric or physical comorbidities, with or without sleep medication"
+        ],
+        "exclusion": [
+            "Children and adolescents"
+        ]
     },
     "intervention": {
-        "inclusion": ["Psychotherapy"],
-        "exclusion": []
+        "inclusion": [
+            "Cognitive behavioural therapy for insomnia (CBT-I), regarded broadly as any psychotherapy involving at least one of the following components: sleep hygiene education, cognitive restructuring, third wave components, constructive worry, sleep restriction, stimulus control, paradoxical intention, sleep diary, relaxation",
+            "Any delivery format (individual, group, in-person, remote, self-help with or without guidance) and any duration",
+            "Pharmacological or psychological co-administration, if there were no systematic differences between study arms"
+        ],
+        "exclusion": [
+            "CBT-I that clearly includes active components focusing on other symptoms (e.g. depression, anxiety, pain), when such components are not equally distributed among study arms",
+            "Arms not described by the CBT-I components, e.g. active drug, pill placebo, exercise, yoga, acupuncture, bright light therapy with equipment"
+        ]
     },
     "comparison": {
-        "inclusion": ["Inactive control group (e.g., waitlist, no treatment, care-as-usual)"],
-        "exclusion": []
+        "inclusion": [
+            "Waiting list (including no treatment or attention/psychological placebo while on the waiting list)",
+            "No treatment",
+            "Attention/psychological placebo control (including watchful waiting termed 'treatment as usual')",
+            "Psychoeducation or sleep hygiene education alone"
+        ],
+        "exclusion": [
+            "Another form of CBT-I (head-to-head comparisons are not part of this database)",
+            "Other treatments (e.g. pharmacotherapy, exercise)"
+        ]
     },
     "outcome": {
-        "inclusion": ["Depressive symptom severity, measured by a validated scale (e.g., HAM-D, BDI)"],
+        "inclusion": [
+            "Insomnia severity at post-treatment and at long-term follow-up (longest follow-up between 3 and 12 months); scale prioritized ISI > SCI > FOSQ > ESS > PSQI > AIS > other self-reported scales > WASO/SOL > WASO > SOL",
+            "Remission as defined by the authors, at post-treatment and long-term follow-up",
+            "Sleep diary parameters (subjective, not polysomnography or actigraphy): sleep efficiency, total sleep time, sleep onset latency, wake after sleep onset",
+            "Dropout for any reason"
+        ],
         "exclusion": []
     },
     "study_design": {
-        "inclusion": ["Randomized controlled trials (RCTs)"],
+        "inclusion": [
+            "Randomized controlled trials",
+            "Cluster randomized trials (intra-cluster correlation assumed to be 0.05 if not reported)"
+        ],
         "exclusion": []
     },
     "other": {
-        "inclusion": [],
-        "exclusion": []
+        "inclusion": [
+            "Peer-reviewed journal articles"
+        ],
+        "exclusion": [
+            "Dissertations",
+            "Results published only on trial registries"
+        ]
     }
 }

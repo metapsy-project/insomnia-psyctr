@@ -1,14 +1,106 @@
 [
     {
-        "name": "Pim Cuijpers",
-        "orcid": "0000-0001-5497-2743"
+        "name": "Yuki Furukawa",
+        "orcid": "0000-0003-1317-0220"
     },
     {
-        "name": "Clara Miguel",
-        "orcid": "0000-0001-5563-5896"
+        "name": "Masatsugu Sakata",
+        "orcid": "0000-0002-5358-5263"
     },
     {
-        "name": "Eirini Karyotaki",
-        "orcid": "0000-0002-0071-2599"
+        "name": "Annemieke van Straten",
+        "orcid": "0000-0001-6875-2215"
+    },
+    {
+        "name": "Fee Benz",
+        "orcid": "0000-0002-8394-9179"
+    },
+    {
+        "name": "Satoshi Funada",
+        "orcid": "0000-0002-8925-2348"
+    },
+    {
+        "name": "Toshi A Furukawa",
+        "orcid": "0000-0003-2159-3776"
+    },
+    {
+        "name": "Shintaro Hara",
+        "orcid": "0000-0003-3945-458X"
+    },
+    {
+        "name": "Elisabeth Hertenstein",
+        "orcid": "0000-0001-6467-0933"
+    },
+    {
+        "name": "Kota Imai",
+        "orcid": "0009-0004-3219-904X"
+    },
+    {
+        "name": "Mari Inoue",
+        "orcid": null
+    },
+    {
+        "name": "Azusa Ishii",
+        "orcid": "0000-0002-4056-560X"
+    },
+    {
+        "name": "Masami Ito",
+        "orcid": "0000-0003-3928-7654"
+    },
+    {
+        "name": "Keita Kawai",
+        "orcid": "0000-0003-2319-5093"
+    },
+    {
+        "name": "Shino Kikuchi",
+        "orcid": "0000-0001-6706-4912"
+    },
+    {
+        "name": "Daiki Nagaoka",
+        "orcid": "0000-0001-6054-3363"
+    },
+    {
+        "name": "Shun Nakajima",
+        "orcid": "0000-0002-2992-195X"
+    },
+    {
+        "name": "Michael Perlis",
+        "orcid": "0000-0002-6806-759X"
+    },
+    {
+        "name": "Simen Berg Saksvik",
+        "orcid": "0000-0003-4322-3805"
+    },
+    {
+        "name": "Shunichi Sato",
+        "orcid": "0009-0009-9427-1824"
+    },
+    {
+        "name": "Seina Shinno",
+        "orcid": "0000-0002-2025-3406"
+    },
+    {
+        "name": "Yusuke Takahashi",
+        "orcid": "0009-0001-5457-7900"
+    },
+    {
+        "name": "Hikari Nishimura Takashina",
+        "orcid": "0000-0003-3094-0573"
+    },
+    {
+        "name": "Rie Toyomoto",
+        "orcid": "0000-0003-1125-3145"
+    },
+    {
+        "name": "Cagdas Türkmen",
+        "orcid": "0000-0003-1147-612X"
+    },
+    {
+        "name": "Daniel Vethe",
+        "orcid": "0000-0001-5028-3457"
+    },
+    {
+        "name": "Ryuichiro Yamamoto",
+        "orcid": "0000-0002-5500-9964"
     }
 ]
